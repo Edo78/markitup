@@ -1,6 +1,9 @@
-markItUp! 1.1.14
+markItUp! 1.1.15
 
 CHANGE LOG
+markItUp! 1.1.15 2015-10-06
+- added the html set
+
 markItUp! 1.1.14 2013-02-04
 - Compatibility patch for jQuery 1.9+
 - Click on menu bubbles up so it could be reused (michilehr)
