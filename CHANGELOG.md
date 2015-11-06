@@ -1,6 +1,9 @@
-markItUp! 1.1.15
+markItUp! 1.1.16
 
 CHANGE LOG
+markItUp! 1.1.16 2015-10-06
+- added the markdown set
+
 markItUp! 1.1.15 2015-10-06
 - added the html set
 

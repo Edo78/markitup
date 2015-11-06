@@ -1,5 +1,5 @@
-markItUp! fork with html set included
-=====================================
+markItUp! fork with html and markdown sets included
+===================================================
 Install with bower
 
 `bower install Edo78/markitup`
