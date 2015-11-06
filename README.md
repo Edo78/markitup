@@ -1,3 +1,8 @@
+markItUp! fork with html set included
+=====================================
+Install with bower
+
+`bower install Edo78/markitup`
 
 markItUp! Universal markup editor
 =================================
