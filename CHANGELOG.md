@@ -1,6 +1,9 @@
-markItUp! 1.1.16
+markItUp! 1.1.17
 
 CHANGE LOG
+markItUp! 1.1.17 2015-10-06
+- changed mySettings in myHtmlSettings and myMarkdownSettings
+
 markItUp! 1.1.16 2015-10-06
 - added the markdown set
 
