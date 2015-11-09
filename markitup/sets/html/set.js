@@ -10,6 +10,7 @@
 // Basic set. Feel free to add more tags
 // ----------------------------------------------------------------------------
 myHtmlSettings = {
+        previewParserPath:  '/utils/html/preview',
         nameSpace: 'markItUpHtml',
 	onShiftEnter:	{keepDefault:false, replaceWith:'<br />\n'},
 	onCtrlEnter:	{keepDefault:false, openWith:'\n<p>', closeWith:'</p>\n'},

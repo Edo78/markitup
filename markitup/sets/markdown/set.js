@@ -11,6 +11,7 @@
 // Feel free to add more tags
 // -------------------------------------------------------------------
 myMarkdownSettings = {
+        previewParserPath:  '/utils/markdown/preview',
         nameSpace: 'markItUpMarkdown',
 	previewParserPath:	'',
 	onShiftEnter:		{keepDefault:false, openWith:'\n\n'},

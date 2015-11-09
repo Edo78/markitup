@@ -1,6 +1,9 @@
-markItUp! 1.1.20
+markItUp! 1.1.21
 
 CHANGE LOG
+markItUp! 1.1.21 2015-10-09
+- added a parserPath for markdown e html
+
 markItUp! 1.1.20 2015-10-09
 - added namespaces to html and markdown sets and stylesheets
 
