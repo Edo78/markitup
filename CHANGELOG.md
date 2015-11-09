@@ -1,6 +1,9 @@
-markItUp! 1.1.18
+markItUp! 1.1.19
 
 CHANGE LOG
+markItUp! 1.1.19 2015-10-09
+- changed css selector from '.markItUpEditor' to 'textarea.markItUpEditor' to win over bootstrap
+
 markItUp! 1.1.18 2015-10-09
 - removed width from classes "markItUp" and "markItUpEditor"
 
