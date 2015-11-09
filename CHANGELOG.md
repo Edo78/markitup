@@ -1,6 +1,9 @@
-markItUp! 1.1.21
+markItUp! 1.1.22
 
 CHANGE LOG
+markItUp! 1.1.22 2015-10-09
+- fixed bug in markdown set.js
+
 markItUp! 1.1.21 2015-10-09
 - added a parserPath for markdown e html
 
