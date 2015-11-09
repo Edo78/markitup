@@ -1,6 +1,9 @@
-markItUp! 1.1.17
+markItUp! 1.1.18
 
 CHANGE LOG
+markItUp! 1.1.18 2015-10-09
+- removed width from classes "markItUp" and "markItUpEditor"
+
 markItUp! 1.1.17 2015-10-06
 - changed mySettings in myHtmlSettings and myMarkdownSettings
 
