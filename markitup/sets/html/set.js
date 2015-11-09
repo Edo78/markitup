@@ -10,6 +10,7 @@
 // Basic set. Feel free to add more tags
 // ----------------------------------------------------------------------------
 myHtmlSettings = {
+        nameSpace: 'markItUpHtml',
 	onShiftEnter:	{keepDefault:false, replaceWith:'<br />\n'},
 	onCtrlEnter:	{keepDefault:false, openWith:'\n<p>', closeWith:'</p>\n'},
 	onTab:			{keepDefault:false, openWith:'	 '},

@@ -1,6 +1,9 @@
-markItUp! 1.1.19
+markItUp! 1.1.20
 
 CHANGE LOG
+markItUp! 1.1.20 2015-10-09
+- added namespaces to html and markdown sets and stylesheets
+
 markItUp! 1.1.19 2015-10-09
 - changed css selector from '.markItUpEditor' to 'textarea.markItUpEditor' to win over bootstrap
 
